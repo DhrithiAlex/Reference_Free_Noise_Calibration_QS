@@ -46,7 +46,6 @@ Both implementations follow the same core philosophy from the thesis: reconstruc
 - **Figure 6**: Crosstalk Fingerprint (PTM Residual: Full − Local)
 - **Figure 7**: Locality Gap vs ZZ Coupling Strength (Crosstalk Sensor)
 
-See [`figures/FIGURES.md`](figures/FIGURES.md) for detailed descriptions of all figures.
 
 ---
 
